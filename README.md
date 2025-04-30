@@ -1,7 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
 
-## NAME: JAISREE B
-## REG NO:212224230100
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
